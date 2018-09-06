@@ -14,7 +14,7 @@ The article is written with three parts
 Using a different font style for each of these parts will
 make the article read better and make it easier to understand.
 
-Your job:
+### Your job:
 
 - Adjust the font sizes for the heading, subheading, and body paragraphs
 	- You want to create a clear division between each of these items.
