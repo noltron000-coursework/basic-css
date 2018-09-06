@@ -1,0 +1,75 @@
+
+  /* Your  /
+ / styles /
+/  here */
+
+.module {
+	all: unset;
+}
+
+body { /* BASE STYLE */
+	font-family: Helvetica;
+	font-size: 18px;
+	color: #555;
+}
+
+.container { /* Keeps Content Tidy */
+	width: 500px;
+	margin: auto;
+}
+
+h1 { /* TITLE */
+	font-size: 6em;
+	font-weight: 900;
+	color: #6feeb7; /*///////////////////////////////////////////// Brightest */
+	text-shadow: .0625em .0625em 0 #7cf9d6; /*//////////////////////// Bright */
+}
+
+.subhead { /* SUBTITLE */
+	font-size: 0.85em;
+	font-weight: 200;
+	font-style: italic;
+	line-height: 2em;
+
+	color: #6feeb7; /*///////////////////////////////////////////// Brightest */
+	text-shadow: .0625em .0625em 0 #7cf9d6; /*//////////////////////// Bright */
+}
+
+p { /* PARAGRAPH */
+	line-height: 1.5em;
+}
+
+a { /* Links */
+	text-decoration: none;
+	color: #8faff2; /*//////////////////////////////////////////// Blue Style */
+	text-shadow: .0625em .0625em 0 #7fccb6; /*////////////////// Green Shadow */
+
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #74a7b2; /*////////////////////////////////////// Grey-Green Style */
+}
+
+p > img {
+	float: left;
+}
+
+em {
+	font-style: italic;
+}
+
+b {
+	font-weight: bolder;
+}
+
+strong {
+	font-family: 'courier', monospace;
+}
+
+.blackboard {
+	color: #aaa
+}
