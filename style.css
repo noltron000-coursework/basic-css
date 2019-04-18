@@ -1,8 +1,3 @@
-
-  /* Your  /
- / styles /
-/  here */
-
 .module {
 	all: unset;
 }
@@ -21,8 +16,8 @@ body { /* BASE STYLE */
 h1 { /* TITLE */
 	font-size: 6em;
 	font-weight: 900;
-	color: #6feeb7; /*///////////////////////////////////////////// Brightest */
-	text-shadow: .0625em .0625em 0 #7cf9d6; /*//////////////////////// Bright */
+	color: #6feeb7; /*////////////////////////////////// Brightest */
+	text-shadow: .0625em .0625em 0 #7cf9d6; /*///////////// Bright */
 }
 
 .subhead { /* SUBTITLE */
@@ -31,8 +26,8 @@ h1 { /* TITLE */
 	font-style: italic;
 	line-height: 2em;
 
-	color: #6feeb7; /*///////////////////////////////////////////// Brightest */
-	text-shadow: .0625em .0625em 0 #7cf9d6; /*//////////////////////// Bright */
+	color: #6feeb7; /*////////////////////////////////// Brightest */
+	text-shadow: .0625em .0625em 0 #7cf9d6; /*///////////// Bright */
 }
 
 p { /* PARAGRAPH */
@@ -41,9 +36,8 @@ p { /* PARAGRAPH */
 
 a { /* Links */
 	text-decoration: none;
-	color: #8faff2; /*//////////////////////////////////////////// Blue Style */
-	text-shadow: .0625em .0625em 0 #7fccb6; /*////////////////// Green Shadow */
-
+	color: #8faff2; /*///////////////////////////////// Blue Style */
+	text-shadow: .0625em .0625em 0 #7fccb6; /*////////Green Shadow */
 }
 
 a:hover {
@@ -51,7 +45,7 @@ a:hover {
 }
 
 a:visited {
-	color: #74a7b2; /*////////////////////////////////////// Grey-Green Style */
+	color: #74a7b2; /*/////////////////////////// Grey-Green Style */
 }
 
 p > img {
@@ -71,5 +65,5 @@ strong {
 }
 
 .blackboard {
-	color: #aaa
+	color: #999
 }
