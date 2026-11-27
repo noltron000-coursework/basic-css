@@ -9,18 +9,17 @@
 **Visual Hierarchy** is the concept that larger and more bold items appear to the human eyes first, even if it isn't the first to appear on a page.
 Those items should likewise be the most important items on the page, in other words the title, the subheading, etcetera.
 
+<div align="center">
+	<img
+		src='./assets/design-elements.jpg'
+		alt='Design elements'
+		width='50%'
+		height='50%'
+	/>
+</div>
+
 This project was made to study the concept of Visual Hierarchy.
-
-<img
-	src='./assets/design-elements.jpg'
-	alt='Design elements'
-	width='50%'
-	height='50%'
-	style='display: block; margin: 1em auto;'
-/>
-
-This app was made to test simple HTML &amp; CSS code.
-The project's coverage includes:
+To study it, the project's CSS covers the following styling:
 - Heading/Title
 - Subheading
 - Body paragraph
