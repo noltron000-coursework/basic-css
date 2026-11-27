@@ -23,20 +23,20 @@ body { /* BASE STYLE */
 h1 { /* TITLE */
 	font-size: 6em;
 	font-weight: 900;
-	color: #6feeb7; /*////////////////////////////////// Brightest */
-	text-shadow: .0625em .0625em 0 #7cf9d6; /*///////////// Bright */
+	color: #6bd8b0; /*////////////////////////////////// Brightest */
+	text-shadow: .0625em .0625em 0 #4ab38d; /*///////////// Bright */
 }
 
 p.subhead { /* SUBTITLE */
 	margin: 0;
 
-	font-size: 0.85em;
-	font-weight: 200;
+	font-size: 0.9em;
+	font-weight: 300;
 	font-style: italic;
 	line-height: 2em;
 
-	color: #6feeb7; /*////////////////////////////////// Brightest */
-	text-shadow: .0625em .0625em 0 #7cf9d6; /*///////////// Bright */
+	color: #6bd8b0; /*////////////////////////////////// Brightest */
+	text-shadow: .0625em .0625em 0 #4ab38d; /*///////////// Bright */
 }
 
 p { /* PARAGRAPH */
